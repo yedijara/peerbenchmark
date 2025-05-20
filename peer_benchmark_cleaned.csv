@@ -1,0 +1,488 @@
+Provinsi,Kabupaten / Kota,Ekonomi Sejahtera,Mayoritas Wilayah,AFI,UFI,Sebaran Aktivitas Ekonomi
+DAERAH ISTIMEWA YOGYAKARTA,KOTA YOGYAKARTA,Maju , Hunian , Tinggi , Tinggi, Tersebar
+ACEH,KOTA BANDA ACEH,Maju , Hunian , Tinggi , Tinggi, Tersebar
+DKI JAKARTA,KOTA ADM. JAKARTA SELATAN,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SULAWESI TENGGARA,KOTA KENDARI,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA TENGAH,KOTA SALATIGA,Maju , Hunian , Tinggi , Tinggi, Tersebar
+DAERAH ISTIMEWA YOGYAKARTA,SLEMAN,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA TENGAH,KOTA SEMARANG,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SULAWESI SELATAN,KOTA MAKASSAR,Maju , Hunian , Tinggi , Tinggi, Tersebar
+BALI,KOTA DENPASAR,Maju , Hunian , Tinggi , Tinggi, Tersebar
+DKI JAKARTA,KOTA ADM. JAKARTA TIMUR,Maju , Hunian , Tinggi , Rendah, Tersebar
+JAWA TIMUR,KOTA SURABAYA,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA TIMUR,KOTA MALANG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA TIMUR,KOTA MADIUN,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TENGAH,KOTA SURAKARTA,Maju , Hunian , Tinggi , Tinggi, Tersebar
+DKI JAKARTA,KOTA ADM. JAKARTA BARAT,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SUMATERA BARAT,KOTA PADANG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+RIAU,KOTA PEKANBARU,Maju , Hunian , Tinggi , Tinggi, Terpusat
+BANTEN,KOTA TANGERANG SELATAN,Maju , Hunian , Tinggi , Rendah, Tersebar
+SULAWESI TENGAH,KOTA PALU,Maju , Hunian , Tinggi , Tinggi, Terpusat
+BENGKULU,KOTA BENGKULU,Maju , Hunian , Tinggi , Tinggi, Terpusat
+DKI JAKARTA,KOTA ADM. JAKARTA PUSAT,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA BARAT,KOTA BANDUNG,Maju , Hunian , Tinggi , Tinggi, Tersebar
+BALI,BADUNG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA BARAT,KOTA BEKASI,Maju , Hunian , Tinggi , Tinggi, Tersebar
+MALUKU,KOTA AMBON,Maju , Hunian , Tinggi , Tinggi, Terpusat
+KEPULAUAN RIAU,KOTA BATAM,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SUMATERA UTARA,KOTA MEDAN,Maju , Hunian , Tinggi , Tinggi, Tersebar
+NUSA TENGGARA TIMUR,KOTA KUPANG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+KALIMANTAN TIMUR,KOTA SAMARINDA,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA BARAT,KOTA DEPOK,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TIMUR,SIDOARJO,Maju , Hunian , Tinggi , Rendah, Tersebar
+KALIMANTAN TIMUR,KOTA BALIKPAPAN,Maju , Hunian , Tinggi , Rendah, Terpusat
+SUMATERA BARAT,KOTA BUKITTINGGI,Maju , Hunian , Tinggi , Tinggi, Terpusat
+MALUKU UTARA,KOTA TERNATE,Maju , Hunian , Tinggi , Tinggi, Terpusat
+KALIMANTAN TENGAH,KOTA PALANGKARAYA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KALIMANTAN TIMUR,KOTA BONTANG,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+SUMATERA SELATAN,KOTA PALEMBANG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+KALIMANTAN BARAT,KOTA PONTIANAK,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TENGAH,KOTA MAGELANG,Maju , Hunian , Tinggi , Tinggi, Tersebar
+DKI JAKARTA,KOTA ADM. JAKARTA UTARA,Maju , Hunian , Tinggi , Tinggi, Tersebar
+PAPUA,KOTA JAYAPURA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TIMUR,KOTA KEDIRI,Maju , Hunian , Tinggi , Rendah, Tersebar
+SULAWESI UTARA,KOTA MANADO,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAMBI,KOTA JAMBI,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TIMUR,KOTA MOJOKERTO,Maju , Hunian , Tinggi , Tinggi, Terpusat
+KALIMANTAN SELATAN,KOTA BANJARBARU,Maju , Hunian , Tinggi , Tinggi, Terpusat
+NUSA TENGGARA BARAT,KOTA MATARAM,Maju , Hunian , Tinggi , Tinggi, Tersebar
+KEPULAUAN RIAU,KOTA TANJUNG PINANG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+BANTEN,KOTA TANGERANG,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TIMUR,KOTA BLITAR,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SULAWESI SELATAN,KOTA PALOPO,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA UTARA,KOTA PEMATANGSIANTAR,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SULAWESI SELATAN,KOTA PAREPARE,Maju , Hunian , Tinggi , Tinggi, Terpusat
+KEPULAUAN BANGKA BELITUNG,KOTA PANGKAL PINANG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+ACEH,KOTA LHOKSEUMAWE,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SUMATERA BARAT,KOTA PAYAKUMBUH,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SUMATERA BARAT,KOTA PADANG PANJANG,Maju , Hunian , Tinggi , Tinggi, Tersebar
+KALIMANTAN SELATAN,KOTA BANJARMASIN,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SUMATERA BARAT,KOTA PARIAMAN,Maju , Hunian , Tinggi , Tinggi, Tersebar
+LAMPUNG,KOTA BANDAR LAMPUNG,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA BARAT,KOTA CIMAHI,Maju , Hunian , Tinggi , Rendah, Tersebar
+BALI,GIANYAR,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SUMATERA BARAT,KOTA SOLOK,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SULAWESI UTARA,KOTA TOMOHON,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA TIMUR,KOTA BATU,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+SULAWESI TENGGARA,KOTA BAU BAU,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI UTARA,MINAHASA,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+JAWA TIMUR,GRESIK,Maju , Hunian , Tinggi , Rendah, Terpusat
+BANTEN,KOTA CILEGON,Maju , Hunian , Tinggi , Rendah, Terpusat
+KEPULAUAN RIAU,NATUNA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA BARAT,KOTA CIREBON,Maju , Hunian , Tinggi , Tinggi, Tersebar
+KALIMANTAN UTARA,KOTA TARAKAN,Maju , Hunian , Tinggi , Rendah, Terpusat
+KEPULAUAN RIAU,BINTAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAMBI,KOTA SUNGAI PENUH,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,KUDUS,Maju , Hunian , Tinggi , Rendah, Terpusat
+KALIMANTAN TIMUR,BERAU,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+RIAU,KOTA DUMAI,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+SULAWESI UTARA,KOTA BITUNG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA BARAT,BEKASI,Maju , Hunian , Tinggi , Rendah, Terpusat
+KALIMANTAN TIMUR,KUTAI KARTANEGARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+RIAU,SIAK,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+RIAU,BENGKALIS,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+RIAU,KAMPAR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGGARA,KOLAKA,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+KALIMANTAN SELATAN,TABALONG,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN TIMUR,KUTAI TIMUR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA BARAT,SUMBAWA BARAT,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+RIAU,PELALAWAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN TIMUR,PASER,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN TIMUR,KUTAI BARAT,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN UTARA,MALINAU,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN SELATAN,TANAH BUMBU,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN SELATAN,TAPIN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN SELATAN,BALANGAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN UTARA,BULUNGAN,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+KEPULAUAN RIAU,KEPULAUAN ANAMBAS,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN SELATAN,KOTABARU,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAMBI,TANJUNG JABUNG BARAT,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGAH,MOROWALI UTARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN UTARA,TANA TIDUNG,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+DAERAH ISTIMEWA YOGYAKARTA,BANTUL,Maju , Hunian , Tinggi , Tinggi, Tersebar
+ACEH,KOTA LANGSA,Maju , Hunian , Tinggi , Tinggi, Terpusat
+LAMPUNG,KOTA METRO,Maju , Hunian , Tinggi , Tinggi, Tersebar
+ACEH,KOTA SABANG,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,SUKOHARJO,Maju , Hunian , Tinggi , Tinggi, Tersebar
+GORONTALO,KOTA GORONTALO,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA BARAT,KOTA BOGOR,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SUMATERA SELATAN,KOTA LUBUK LINGGAU,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+NUSA TENGGARA BARAT,KOTA BIMA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TIMUR,KOTA PASURUAN,Maju , Hunian , Tinggi , Tinggi, Terpusat
+BALI,TABANAN,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SUMATERA SELATAN,KOTA PRABUMULIH,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA UTARA,KOTA TEBING TINGGI,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SUMATERA UTARA,KOTA BINJAI,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SUMATERA UTARA,KOTA PADANG SIDEMPUAN,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SUMATERA UTARA,TOBA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TENGAH,KLATEN,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TENGAH,KARANGANYAR,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TIMUR,KOTA PROBOLINGGO,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA BARAT,KOTA SUKABUMI,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SUMATERA UTARA,DELI SERDANG,Maju , Hunian , Tinggi , Rendah, Terpusat
+SUMATERA UTARA,KOTA SIBOLGA,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA TENGAH,KOTA TEGAL,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SUMATERA UTARA,KARO,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA UTARA,TAPANULI UTARA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+ACEH,ACEH TENGAH,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,KOTA PEKALONGAN,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SULAWESI UTARA,MINAHASA UTARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+BANTEN,KOTA SERANG,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SULAWESI UTARA,KOTA KOTAMOBAGU,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA TIMUR,MAGETAN,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TIMUR,MOJOKERTO,Maju , Hunian , Tinggi , Rendah, Tersebar
+SUMATERA BARAT,KOTA SAWAHLUNTO,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+ACEH,ACEH BESAR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA BARAT,TANAH DATAR,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI SELATAN,LUWU TIMUR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA UTARA,LABUHANBATU UTARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+BANTEN,TANGERANG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+DAERAH ISTIMEWA YOGYAKARTA,KULON PROGO,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA BARAT,KOTA TASIKMALAYA,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TENGAH,BOYOLALI,Maju , Hunian , Rendah , Tinggi, Tersebar
+SUMATERA UTARA,KOTA TANJUNG BALAI,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA TIMUR,LAMONGAN,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SUMATERA UTARA,SIMALUNGUN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA UTARA,DAIRI,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI SELATAN,ENREKANG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI UTARA,MINAHASA SELATAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,SEMARANG,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TIMUR,JOMBANG,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TENGAH,SRAGEN,Maju , Hunian , Tinggi , Tinggi, Tersebar
+KEPULAUAN RIAU,KARIMUN,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI SELATAN,PINRANG,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+ACEH,BIREUEN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN TENGAH,KOTAWARINGIN BARAT,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+BALI,BULELENG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+PAPUA,JAYAPURA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+BALI,JEMBRANA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TIMUR,NGANJUK,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SUMATERA UTARA,LABUHANBATU,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA UTARA,TAPANULI SELATAN,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TIMUR,KEDIRI,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TENGAH,PURWOREJO,Maju , Hunian , Tinggi , Tinggi, Tersebar
+BALI,KLUNGKUNG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA TIMUR,TULUNGAGUNG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SUMATERA UTARA,LABUHANBATU SELATAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA BARAT,AGAM,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+BENGKULU,REJANG LEBONG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA BARAT,KOTA BANJAR,Maju , Hunian , Tinggi , Tinggi, Tersebar
+KEPULAUAN BANGKA BELITUNG,BELITUNG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KALIMANTAN TIMUR,PENAJAM PASER UTARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA BARAT,PADANG PARIAMAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA UTARA,LANGKAT,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA BARAT,DHARMASRAYA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KALIMANTAN TENGAH,BARITO TIMUR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI SELATAN,SIDENRENG RAPPANG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TIMUR,MADIUN,Maju , Hunian , Rendah , Tinggi, Terpusat
+KALIMANTAN TENGAH,BARITO SELATAN,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KALIMANTAN BARAT,KOTA SINGKAWANG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KEPULAUAN BANGKA BELITUNG,BANGKA,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+JAWA BARAT,BANDUNG,Maju , Hunian , Tinggi , Rendah, Terpusat
+JAWA BARAT,SUMEDANG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA TENGAH,DEMAK,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TENGAH,BANYUMAS,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SULAWESI SELATAN,BARRU,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI TENGGARA,KONAWE,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN TENGAH,KOTAWARINGIN TIMUR,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAMBI,BUNGO,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI UTARA,KEPULAUAN SANGIHE,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI SELATAN,BULUKUMBA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KALIMANTAN SELATAN,BANJAR,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+KALIMANTAN TENGAH,KATINGAN,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+SULAWESI TENGAH,MOROWALI,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+JAWA TENGAH,KENDAL,Maju , Hunian , Tinggi , Rendah, Terpusat
+JAMBI,KERINCI,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TENGAH,JEPARA,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA TIMUR,BANYUWANGI,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA UTARA,ASAHAN,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+LAMPUNG,LAMPUNG TENGAH,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA UTARA,PADANG LAWAS UTARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA UTARA,SERDANG BEDAGAI,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,PATI,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SULAWESI SELATAN,MAROS,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+SULAWESI SELATAN,LUWU UTARA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+MALUKU UTARA,KOTA TIDORE KEPULAUAN,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+RIAU,KUANTAN SINGINGI,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+ACEH,ACEH TAMIANG,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA SELATAN,KOTA PAGAR ALAM,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA BARAT,PURWAKARTA,Maju , Hunian , Tinggi , Rendah, Terpusat
+SULAWESI SELATAN,WAJO,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KALIMANTAN TENGAH,LAMANDAU,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+KALIMANTAN SELATAN,HULU SUNGAI SELATAN,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+JAWA TIMUR,NGAWI,Maju , Hunian , Tinggi , Tinggi, Tersebar
+KALIMANTAN TENGAH,GUNUNG MAS,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+SULAWESI SELATAN,PANGKAJENE DAN KEPULAUAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI SELATAN,LUWU,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+LAMPUNG,PRINGSEWU,Maju , Hunian , Rendah , Rendah, Terpusat
+JAWA BARAT,KARAWANG,Maju , Hunian , Tinggi , Rendah, Terpusat
+SUMATERA UTARA,SAMOSIR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAMBI,SAROLANGUN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI SELATAN,GOWA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA SELATAN,OGAN KOMERING ULU,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TIMUR,PONOROGO,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SULAWESI UTARA,MINAHASA TENGGARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGAH,POSO,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+BENGKULU,MUKO MUKO,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA BARAT,CIAMIS,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SUMATERA SELATAN,OGAN KOMERING ULU TIMUR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA BARAT,BOGOR,Maju , Hunian , Tinggi , Rendah, Terpusat
+KEPULAUAN BANGKA BELITUNG,BELITUNG TIMUR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+ACEH,ACEH TENGGARA,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+BENGKULU,LEBONG,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TIMUR,MALANG,Maju , Hunian , Rendah , Rendah, Terpusat
+JAWA TIMUR,BLITAR,Maju , Hunian , Rendah , Rendah, Tersebar
+SUMATERA UTARA,MANDAILING NATAL,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+KALIMANTAN SELATAN,TANAH LAUT,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+ACEH,ACEH JAYA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA UTARA,TAPANULI TENGAH,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN SELATAN,HULU SUNGAI TENGAH,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+SUMATERA UTARA,HUMBANG HASUNDUTAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+BANTEN,SERANG,Maju , Hunian , Rendah , Rendah, Terpusat
+SULAWESI BARAT,MAJENE,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KALIMANTAN TENGAH,BARITO UTARA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA BARAT,SOLOK SELATAN,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA UTARA,BATU BARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAMBI,BATANGHARI,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+JAMBI,MUARO JAMBI,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA SELATAN,MUARA ENIM,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+SUMATERA UTARA,PADANG LAWAS,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+BENGKULU,BENGKULU UTARA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA UTARA,PAKPAK BHARAT,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+RIAU,ROKAN HULU,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KEPULAUAN RIAU,LINGGA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+LAMPUNG,LAMPUNG TIMUR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN TENGAH,KAPUAS,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA BARAT,SIJUNJUNG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA BARAT,PESISIR SELATAN,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI TENGAH,BANGGAI,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+SUMATERA SELATAN,LAHAT,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI UTARA,KEPULAUAN TALAUD,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA BARAT,PASAMAN BARAT,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI SELATAN,SOPPENG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+RIAU,INDRAGIRI HULU,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TIMUR,BOJONEGORO,Maju , Hunian , Tinggi , Rendah, Terpusat
+SULAWESI TENGGARA,KONAWE UTARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA BARAT,LOMBOK BARAT,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAMBI,TEBO,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA SELATAN,OGAN ILIR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAMBI,MERANGIN,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+NUSA TENGGARA BARAT,DOMPU,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TENGAH,CILACAP,Maju , Hunian , Rendah , Rendah, Terpusat
+KEPULAUAN BANGKA BELITUNG,BANGKA TENGAH,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,WONOGIRI,Maju , Hunian , Rendah , Tinggi, Tersebar
+JAWA TENGAH,REMBANG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA BARAT,LIMA PULUH KOTA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+BALI,BANGLI,Maju , Hunian , Tinggi , Tinggi, Tersebar
+JAWA TIMUR,TRENGGALEK,Maju , Hunian , Rendah , Tinggi, Tersebar
+RIAU,ROKAN HILIR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+LAMPUNG,LAMPUNG BARAT,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TIMUR,PASURUAN,Maju , Hunian , Rendah , Rendah, Terpusat
+KALIMANTAN TENGAH,PULANG PISAU,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA BARAT,SUMBAWA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TIMUR,TUBAN,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+SULAWESI SELATAN,TORAJA UTARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA BARAT,CIREBON,Maju , Hunian , Tinggi , Rendah, Terpusat
+SUMATERA BARAT,SOLOK,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA SELATAN,MUSI BANYUASIN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+LAMPUNG,TULANG BAWANG,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI SELATAN,BANTAENG,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+LAMPUNG,LAMPUNG SELATAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,MAGELANG,Maju , Hunian , Rendah , Tinggi, Tersebar
+SULAWESI SELATAN,TAKALAR,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+BENGKULU,KEPAHIANG,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA BARAT,SUBANG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+NUSA TENGGARA TIMUR,NGADA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TENGAH,GROBOGAN,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SULAWESI SELATAN,KEPULAUAN SELAYAR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,PEKALONGAN,Maju , Hunian , Rendah , Tinggi, Terpusat
+SULAWESI SELATAN,TANA TORAJA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI BARAT,MAMUJU,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,TEMANGGUNG,Maju , Hunian , Tinggi , Tinggi, Tersebar
+ACEH,ACEH SELATAN,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI SELATAN,SINJAI,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+SULAWESI TENGGARA,KOLAKA UTARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN SELATAN,HULU SUNGAI UTARA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TENGAH,TEGAL,Maju , Hunian , Tinggi , Tinggi, Terpusat
+BENGKULU,BENGKULU TENGAH,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI UTARA,BOLAANG MONGONDOW UTARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN TENGAH,MURUNG RAYA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA BARAT,KUNINGAN,Maju , Hunian , Tinggi , Tinggi, Terpusat
+SUMATERA SELATAN,BANYUASIN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI UTARA,KEP. SIAU TAGULANDANG BIARO,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGGARA,KONAWE SELATAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGGARA,MUNA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TIMUR,PACITAN,Maju , Hunian , Tinggi , Tinggi, Tersebar
+SUMATERA SELATAN,OGAN KOMERING ILIR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,BLORA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KALIMANTAN SELATAN,BARITO KUALA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA BARAT,MAJALENGKA,Maju , Hunian , Tinggi , Tinggi, Terpusat
+KEPULAUAN BANGKA BELITUNG,BANGKA BARAT,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+ACEH,ACEH TIMUR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TIMUR,SITUBONDO,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TIMUR,BONDOWOSO,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA SELATAN,MUSI RAWAS,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN BARAT,SAMBAS,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA BARAT,LOMBOK TENGAH,Maju , Hunian , Tinggi , Tinggi, Tersebar
+LAMPUNG,WAY KANAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN BARAT,KUBU RAYA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI UTARA,BOLAANG MONGONDOW,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI BARAT,PASANGKAYU,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+LAMPUNG,PESISIR BARAT,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA BARAT,PANGANDARAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+MALUKU UTARA,HALMAHERA TENGAH,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+JAWA TIMUR,JEMBER,Maju , Hunian , Tinggi , Tinggi, Terpusat
+BALI,KARANGASEM,Maju , Hunian , Rendah , Tinggi, Tersebar
+SULAWESI TENGAH,SIGI,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGAH,BUOL,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+BANTEN,PANDEGLANG,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN TENGAH,SUKAMARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI SELATAN,BONE,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+KALIMANTAN TIMUR,MAHAKAM ULU,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+JAMBI,TANJUNG JABUNG TIMUR,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+JAWA BARAT,BANDUNG BARAT,Maju , Hunian , Rendah , Rendah, Terpusat
+JAWA TENGAH,BATANG,Maju , Hunian , Tinggi , Tinggi, Terpusat
+JAWA BARAT,INDRAMAYU,Maju , Hunian , Tinggi , Rendah, Terpusat
+SULAWESI UTARA,BOLAANG MONGONDOW TIMUR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN TENGAH,SERUYAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA BARAT,PASAMAN,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+LAMPUNG,TANGGAMUS,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+MALUKU UTARA,HALMAHERA UTARA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI TENGAH,TOLI TOLI,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+MALUKU UTARA,HALMAHERA TIMUR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN BARAT,KETAPANG,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+JAWA TIMUR,LUMAJANG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KALIMANTAN BARAT,BENGKAYANG,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+LAMPUNG,PESAWARAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA BARAT,SUKABUMI,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN BARAT,SINTANG,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+RIAU,INDRAGIRI HILIR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+LAMPUNG,TULANG BAWANG BARAT,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KEPULAUAN BANGKA BELITUNG,BANGKA SELATAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA SELATAN,OGAN KOMERING ULU SELATAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA BARAT,TASIKMALAYA,Maju , Hunian , Tinggi , Tinggi, Tersebar
+NUSA TENGGARA TIMUR,SIKKA,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI UTARA,BOLAANG MONGONDOW SELATAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA BARAT,GARUT,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+PAPUA BARAT,TELUK BINTUNI,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,FLORES TIMUR,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+NUSA TENGGARA TIMUR,NAGEKEO,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA SELATAN,PENUKAL ABAB LEMATANG ILIR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN BARAT,MEMPAWAH,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA SELATAN,EMPAT LAWANG,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI SELATAN,JENEPONTO,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KALIMANTAN BARAT,SANGGAU,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+KALIMANTAN UTARA,NUNUKAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+MALUKU UTARA,HALMAHERA BARAT,Maju , Alam , Tinggi, Rendah,Terpusat (Alam)
+KALIMANTAN BARAT,LANDAK,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA BARAT,CIANJUR,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI TENGGARA,BOMBANA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN BARAT,MELAWI,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+KALIMANTAN BARAT,KAPUAS HULU,Maju , Alam , Tinggi, Tinggi,Terpusat (Alam)
+LAMPUNG,MESUJI,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI BARAT,MAMUJU TENGAH,Maju , Alam , Rendah, Tinggi,Terpusat (Alam)
+MALUKU UTARA,HALMAHERA SELATAN,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+BANTEN,LEBAK,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+MALUKU UTARA,KEPULAUAN SULA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN BARAT,SEKADAU,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+MALUKU,KEPULAUAN TANIMBAR,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+KALIMANTAN BARAT,KAYONG UTARA,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+MALUKU UTARA,PULAU MOROTAI,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+MALUKU UTARA,PULAU TALIABU,Maju , Alam , Rendah, Rendah,Terpusat (Alam)
+ACEH,BENER MERIAH,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+ACEH,PIDIE JAYA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+ACEH,ACEH BARAT,Tertinggal , Alam , Tinggi, Rendah,Terpusat (Alam)
+PAPUA BARAT,MANOKWARI,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+MALUKU,MALUKU TENGAH,Tertinggal , Alam , Rendah, Tinggi,Terpusat (Alam)
+PAPUA,BIAK NUMFOR,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+BENGKULU,BENGKULU SELATAN,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+ACEH,PIDIE,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+ACEH,ACEH UTARA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+ACEH,NAGAN RAYA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+GORONTALO,BONE BOLANGO,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+MALUKU,BURU,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+MALUKU,SERAM BAGIAN BARAT,Tertinggal , Alam , Rendah, Tinggi,Terpusat (Alam)
+MALUKU,KOTA TUAL,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,KEBUMEN,Tertinggal , Hunian , Rendah , Tinggi, Tersebar
+SUMATERA UTARA,KOTA GUNUNGSITOLI,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,ENDE,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+DAERAH ISTIMEWA YOGYAKARTA,GUNUNGKIDUL,Tertinggal , Hunian , Rendah , Tinggi, Tersebar
+SULAWESI TENGGARA,WAKATOBI,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+GORONTALO,GORONTALO,Tertinggal , Alam , Tinggi, Rendah,Terpusat (Alam)
+ACEH,ACEH SINGKIL,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+ACEH,GAYO LUES,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+BENGKULU,KAUR,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+PAPUA BARAT,FAK FAK,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+NUSA TENGGARA BARAT,LOMBOK TIMUR,Tertinggal , Hunian , Tinggi , Tinggi, Terpusat
+LAMPUNG,LAMPUNG UTARA,Tertinggal , Alam , Tinggi, Rendah,Terpusat (Alam)
+ACEH,ACEH BARAT DAYA,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+NUSA TENGGARA BARAT,BIMA,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+BENGKULU,SELUMA,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TENGAH,PURBALINGGA,Tertinggal , Hunian , Tinggi , Tinggi, Tersebar
+ACEH,SIMEULUE,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TIMUR,PROBOLINGGO,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TIMUR,PAMEKASAN,Tertinggal , Hunian , Tinggi , Tinggi, Terpusat
+SULAWESI TENGGARA,BUTON UTARA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+ACEH,KOTA SUBULUSSALAM,Tertinggal , Alam , Rendah, Tinggi,Terpusat (Alam)
+JAWA TENGAH,WONOSOBO,Tertinggal , Hunian , Tinggi , Tinggi, Tersebar
+MALUKU,MALUKU TENGGARA,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SUMATERA SELATAN,MUSI RAWAS UTARA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGGARA,KOLAKA TIMUR,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,SUMBA TIMUR,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+MALUKU,SERAM BAGIAN TIMUR,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+GORONTALO,POHUWATO,Tertinggal , Alam , Tinggi, Rendah,Terpusat (Alam)
+JAWA TENGAH,BREBES,Tertinggal , Hunian , Tinggi , Tinggi, Terpusat
+PAPUA,KEPULAUAN YAPEN,Tertinggal , Alam , Rendah, Tinggi,Terpusat (Alam)
+SULAWESI BARAT,POLEWALI MANDAR,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+PAPUA,KEEROM,Tertinggal , Alam , Rendah, Tinggi,Terpusat (Alam)
+JAWA TIMUR,SUMENEP,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGGARA,BUTON,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI TENGAH,BANGGAI LAUT,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+RIAU,KEPULAUAN MERANTI,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TENGAH,BANJARNEGARA,Tertinggal , Hunian , Tinggi , Tinggi, Tersebar
+SULAWESI TENGAH,PARIGI MOUTONG,Tertinggal , Alam , Rendah, Tinggi,Terpusat (Alam)
+NUSA TENGGARA TIMUR,MANGGARAI,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+GORONTALO,BOALEMO,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+PAPUA BARAT,KAIMANA,Tertinggal , Alam , Tinggi, Rendah,Terpusat (Alam)
+SULAWESI TENGAH,TOJO UNA UNA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+MALUKU,KEPULAUAN ARU,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,LEMBATA,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+GORONTALO,GORONTALO UTARA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGGARA,KONAWE KEPULAUAN,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGAH,DONGGALA,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI BARAT,MAMASA,Tertinggal , Alam , Rendah, Tinggi,Terpusat (Alam)
+NUSA TENGGARA TIMUR,MANGGARAI BARAT,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TENGAH,PEMALANG,Tertinggal , Hunian , Tinggi , Tinggi, Terpusat
+NUSA TENGGARA BARAT,LOMBOK UTARA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+MALUKU,BURU SELATAN,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGGARA,MUNA BARAT,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,KUPANG,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+PAPUA,WAROPEN,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,BELU,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+SULAWESI TENGGARA,BUTON SELATAN,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+PAPUA,SARMI,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,SUMBA BARAT,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+NUSA TENGGARA TIMUR,ALOR,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+MALUKU,MALUKU BARAT DAYA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+SULAWESI TENGAH,BANGGAI KEPULAUAN,Tertinggal , Alam , Tinggi, Rendah,Terpusat (Alam)
+SULAWESI TENGGARA,BUTON TENGAH,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+JAWA TIMUR,BANGKALAN,Tertinggal , Hunian , Rendah , Tinggi, Terpusat
+NUSA TENGGARA TIMUR,TIMOR TENGAH UTARA,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+JAWA TIMUR,SAMPANG,Tertinggal , Hunian , Rendah , Rendah, Terpusat
+SUMATERA BARAT,KEPULAUAN MENTAWAI,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA UTARA,NIAS UTARA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,ROTE NDAO,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+PAPUA,SUPIORI,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,TIMOR TENGAH SELATAN,Tertinggal , Alam , Rendah, Tinggi,Terpusat (Alam)
+SUMATERA UTARA,NIAS,Tertinggal , Alam , Tinggi, Tinggi,Terpusat (Alam)
+NUSA TENGGARA TIMUR,MANGGARAI TIMUR,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA UTARA,NIAS SELATAN,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+SUMATERA UTARA,NIAS BARAT,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,MALAKA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+PAPUA BARAT,TELUK WONDAMA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,SUMBA TENGAH,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,SUMBA BARAT DAYA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+PAPUA BARAT,MANOKWARI SELATAN,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+NUSA TENGGARA TIMUR,SABU RAIJUA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+PAPUA,MAMBERAMO RAYA,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
+PAPUA BARAT,PEGUNUNGAN ARFAK,Tertinggal , Alam , Rendah, Rendah,Terpusat (Alam)
