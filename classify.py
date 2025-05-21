@@ -4,6 +4,9 @@ import requests
 from PIL import Image
 from io import BytesIO
 
+# Set page config before anything else
+st.set_page_config(layout="wide")
+
 # Load data
 @st.cache_data
 def load_data():
@@ -34,10 +37,10 @@ def classify_gini(gini):
     elif gini < 0.5: return "Tinggi"
     else: return "Sangat Tinggi"
 
-# Sidebar selections
-st.set_page_config(layout="wide")
+# Font style
 st.markdown("<style>body { font-family: 'Arial'; font-size: 13px; }</style>", unsafe_allow_html=True)
 
+# Sidebar selections
 st.sidebar.title("Peer Benchmarking Tool")
 selected_view = st.sidebar.radio("Pilih Mode", [
     "Peer Benchmarking by Inclusion",
@@ -137,9 +140,7 @@ with col1:
         st.markdown(f"**{col_name}:** {avg[col_name]:.2f}")
 
 with col2:
-    # Search image from DuckDuckGo as first result (basic fallback demo)
     try:
-        query = f"{region['Kabupaten / Kota']} kabupaten kota indonesia site:wikipedia.org"
         url = f"https://source.unsplash.com/300x200/?{region['Kabupaten / Kota'].replace(' ', '%20')}"
         response = requests.get(url)
         img = Image.open(BytesIO(response.content))
