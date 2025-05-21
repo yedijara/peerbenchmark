@@ -31,12 +31,24 @@ def classify_gini(gini):
     elif gini < 0.5: return "Tinggi"
     else: return "Sangat Tinggi"
 
+# Font style
+st.markdown("""
+    <style>
+    body, div, label, span {
+        font-family: 'Segoe UI', sans-serif;
+        font-size: 13px;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
 # Sidebar selections
 st.sidebar.title("Peer Benchmarking Tool")
 selected_view = st.sidebar.radio("Pilih Mode", [
     "Peer Benchmarking by Inclusion",
     "Peer Benchmarking by Utilization",
-    "Peer Benchmarking by Welfare / Economy"
+    "Peer Benchmarking by Welfare / Economy",
+    "Inclusion + Welfare Economy",
+    "Utilization + Welfare Economy"
 ])
 
 selected_region = st.sidebar.selectbox("Pilih Kabupaten/Kota", df["Kabupaten / Kota"].unique())
@@ -47,8 +59,22 @@ if selected_view == "Peer Benchmarking by Inclusion":
     peers = df[df["Klasifikasi AFI"] == region["Klasifikasi AFI"]]
 elif selected_view == "Peer Benchmarking by Utilization":
     peers = df[df["Klasifikasi UFI"] == region["Klasifikasi UFI"]]
+elif selected_view == "Peer Benchmarking by Welfare / Economy":
+    peers = df[
+        (df["Klasifikasi PDRB"] == region["Klasifikasi PDRB"]) &
+        (df["Klasifikasi IPM"] == region["Klasifikasi IPM"]) &
+        (df["Klasifikasi Kemiskinan"] == region["Klasifikasi Kemiskinan"])
+    ]
+elif selected_view == "Inclusion + Welfare Economy":
+    peers = df[
+        (df["Klasifikasi AFI"] == region["Klasifikasi AFI"]) &
+        (df["Klasifikasi PDRB"] == region["Klasifikasi PDRB"]) &
+        (df["Klasifikasi IPM"] == region["Klasifikasi IPM"]) &
+        (df["Klasifikasi Kemiskinan"] == region["Klasifikasi Kemiskinan"])
+    ]
 else:
     peers = df[
+        (df["Klasifikasi UFI"] == region["Klasifikasi UFI"]) &
         (df["Klasifikasi PDRB"] == region["Klasifikasi PDRB"]) &
         (df["Klasifikasi IPM"] == region["Klasifikasi IPM"]) &
         (df["Klasifikasi Kemiskinan"] == region["Klasifikasi Kemiskinan"])
@@ -58,7 +84,7 @@ else:
 st.markdown(f"## 📍 Statistik: {region['Kabupaten / Kota']}")
 
 st.markdown("""
-<div style='font-size:16px'>
+<div style='font-size:13px'>
 """, unsafe_allow_html=True)
 
 cols = [
